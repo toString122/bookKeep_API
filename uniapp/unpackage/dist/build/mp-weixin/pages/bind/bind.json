@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "绑定手机号",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "status-bar": "/pages/components/statusBar"
+  }
+}

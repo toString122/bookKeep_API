@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "我的",
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": true,
+  "background": "#f0f0f0",
+  "statusbar": {
+    "background": "#f0f0f0"
+  },
+  "usingComponents": {}
+}

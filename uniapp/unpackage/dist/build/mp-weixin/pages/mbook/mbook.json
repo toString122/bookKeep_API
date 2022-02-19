@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "账本",
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": false,
+  "usingComponents": {}
+}

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "主页",
+  "enablePullDownRefresh": true,
+  "backgroundTextStyle": "light",
+  "background": "#f0f0f0",
+  "usingComponents": {
+    "nav": "/pages/components/nav"
+  }
+}

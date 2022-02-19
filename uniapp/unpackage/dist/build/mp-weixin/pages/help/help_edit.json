@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "帮助编辑",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "status-bar": "/pages/components/statusBar"
+  }
+}

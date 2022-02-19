@@ -1,0 +1,30 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/mbook/mbook",
+    "pages/extend/index",
+    "pages/my/index",
+    "pages/addmbook/addmbook",
+    "pages/login/login",
+    "pages/about/about",
+    "pages/help/help",
+    "pages/help/help_detail",
+    "pages/help/help_edit",
+    "pages/help/help_list",
+    "pages/bind/bind"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "小笔记账",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "navigationStyle": "custom",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {
+    "basics": "/pages/mbook/mbook",
+    "components": "/pages/addmbook/addmbook",
+    "plugin": "/pages/my/index",
+    "cu-custom": "/colorui/components/cu-custom"
+  }
+}
